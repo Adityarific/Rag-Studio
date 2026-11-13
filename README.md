@@ -11,6 +11,8 @@
 ![uv](https://img.shields.io/badge/uv-Package%20Manager-DE5FE9)
 
 ---
+![Local AI RAG Application](screenshots/rag-dashboard.jpeg)
+
 
 ## What Is This?
 
